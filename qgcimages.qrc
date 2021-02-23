@@ -6,6 +6,7 @@
         <file alias="Airframe/Airship">src/AutoPilotPlugins/Common/Images/Airship.svg</file>
         <file alias="Airframe/Autogyro">src/AutoPilotPlugins/Common/Images/Autogyro.svg</file>
         <file alias="Airframe/Boat">src/AutoPilotPlugins/Common/Images/Boat.svg</file>
+	<file alias="Airframe/ductedfan">src/AutoPilotPlugins/Common/Images/ductedfan.svg</file>
         <file alias="Airframe/FlyingWing">src/AutoPilotPlugins/Common/Images/FlyingWing.svg</file>
         <file alias="Airframe/Helicopter">src/AutoPilotPlugins/Common/Images/Helicopter.svg</file>
         <file alias="Airframe/HelicopterCoaxial">src/AutoPilotPlugins/Common/Images/HelicopterCoaxial.svg</file>

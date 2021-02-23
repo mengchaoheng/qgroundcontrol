@@ -58,6 +58,17 @@
       <output name="MAIN4">Lower rotor (CW)</output>
     </airframe>
   </airframe_group>
+  <airframe_group name="Ducted Fan" image="ductedfan">
+    <airframe name="ductedfan" id="15003" maintainer="meng chaoheng">
+      <class>Copter</class>
+      <maintainer>meng chaoheng</maintainer>
+      <type>Ducted Fan</type>
+      <output name="MAIN1">Upper rotor (CW)</output>
+      <output name="MAIN2">Lower rotor (CCW)</output>
+      <output name="MAIN3"> servomotor, roll axis</output>
+      <output name="MAIN4"> servomotor, pitch axis</output>
+    </airframe>
+  </airframe_group>
   <airframe_group name="Dodecarotor cox" image="DodecaRotorXCoaxial">
     <airframe name="Generic Dodecarotor cox geometry" id="24001" maintainer="William Peale &lt;develop707@gmail.com&gt;">
       <class>Copter</class>
